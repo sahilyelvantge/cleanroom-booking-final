@@ -1,0 +1,309 @@
+S.No,Campus,Employee ID,Employee Type,Full Name,Official Email ID
+1,Hyderabad,H0002,Teaching,Paturu Neelakanteswara Rao,pnrao@hyderabad.bits-pilani.ac.in
+2,Hyderabad,H0004,Teaching,N Rajesh ,nrajesh@hyderabad.bits-pilani.ac.in
+3,Hyderabad,H0005,Teaching,Morapakala Srinivas,morasrini@hyderabad.bits-pilani.ac.in
+4,Hyderabad,H0006,Teaching,Dipak Kumar Satpathi,dipak@hyderabad.bits-pilani.ac.in
+5,Hyderabad,H0008,Teaching,Dharmarajan Sriram,dsriram@hyderabad.bits-pilani.ac.in
+6,Hyderabad,H0009,Teaching,Chittaranjan Hota ,hota@hyderabad.bits-pilani.ac.in
+7,Hyderabad,H0010,Teaching,Vidya Rajesh ,vidya@hyderabad.bits-pilani.ac.in
+8,Hyderabad,H0011,Teaching,P Yogeeswari ,pyogee@hyderabad.bits-pilani.ac.in
+9,Hyderabad,H0013,Teaching,P K Thiruvikraman ,thiru@hyderabad.bits-pilani.ac.in
+10,Hyderabad,H0014,Teaching,I Sreedhar ,isreedhar@hyderabad.bits-pilani.ac.in
+11,Hyderabad,H0017,Teaching,V Vinayaka Ram ,vinayak@hyderabad.bits-pilani.ac.in
+12,Hyderabad,H0022,Teaching,R Gururaj ,gururaj@hyderabad.bits-pilani.ac.in
+13,Hyderabad,H0025,Teaching,Nandanavanam Jalaiah ,jalaiah@hyderabad.bits-pilani.ac.in
+14,Hyderabad,H0031,Teaching,D Purnima ,dpurnima@hyderabad.bits-pilani.ac.in
+15,Hyderabad,H0046,Teaching,Anupam Bhattacharya ,anupam@hyderabad.bits-pilani.ac.in
+16,Hyderabad,H0048,Teaching,G Geethakumari ,geetha@hyderabad.bits-pilani.ac.in
+17,Hyderabad,H0053,Teaching,Amit Kumar Gupta ,akgupta@hyderabad.bits-pilani.ac.in
+18,Hyderabad,H0068,Teaching,Jayati Ray Dutta ,jayati@hyderabad.bits-pilani.ac.in
+19,Hyderabad,H0071,Teaching,Vasan Arunachalam,vasan@hyderabad.bits-pilani.ac.in
+20,Hyderabad,H0078,Teaching,Kannan Ramaswamy ,kannan@hyderabad.bits-pilani.ac.in
+21,Hyderabad,H0079,Teaching,Kumar Pranav Narayan ,pranav@hyderabad.bits-pilani.ac.in
+22,Hyderabad,H0089,Teaching,Komaragiri Srinivasa Raju ,ksraju@hyderabad.bits-pilani.ac.in
+23,Hyderabad,H0090,Teaching,K V G Chandra Sekhar ,kvgc@hyderabad.bits-pilani.ac.in
+24,Hyderabad,H0093,Teaching,Srinivasa Prakash Regalla ,regalla@hyderabad.bits-pilani.ac.in
+25,Hyderabad,H0095,Teaching,Aravinda Narayanan Raghavan ,raghavan@hyderabad.bits-pilani.ac.in
+26,Hyderabad,H0101,Teaching,Prasuna M G ,prasuna@hyderabad.bits-pilani.ac.in
+27,Hyderabad,H0103,Teaching,Bivudutta Mishra ,bivu@hyderabad.bits-pilani.ac.in
+28,Hyderabad,H0104,Teaching,B. Harihara Venkataraman ,hari@hyderabad.bits-pilani.ac.in
+29,Hyderabad,H0114,Teaching,Kota Venkata Ratnam ,vrkota@hyderabad.bits-pilani.ac.in
+30,Hyderabad,H0117,Teaching,Praveen Kumar P T V ,praveen@hyderabad.bits-pilani.ac.in
+31,Hyderabad,H0118,Teaching,Sankar Ganesh P ,sangan@hyderabad.bits-pilani.ac.in
+32,Hyderabad,H0125,Teaching,Pradyumn Kumar Sahoo ,pksahoo@hyderabad.bits-pilani.ac.in
+33,Hyderabad,H0131,Teaching,Subbalakshmi Jayanty ,jslakshmi@hyderabad.bits-pilani.ac.in
+34,Hyderabad,H0136,Teaching,Meenakshi V ,meenakshi@hyderabad.bits-pilani.ac.in
+35,Hyderabad,H0141,Teaching,Krishnan Rangan,rkrishnan@hyderabad.bits-pilani.ac.in
+36,Hyderabad,H0145,Teaching,Punna Rao Ravi ,rpunnarao@hyderabad.bits-pilani.ac.in
+37,Hyderabad,H0146,Teaching,Syed Ershad Ahmed ,syed@hyderabad.bits-pilani.ac.in
+38,Hyderabad,H0148,Teaching,China Hussain Yaganti ,hussain@hyderabad.bits-pilani.ac.in
+39,Hyderabad,H0149,Teaching,Bvvsn Prabhakar Rao ,budhiraju@hyderabad.bits-pilani.ac.in
+40,Hyderabad,H0161,Teaching,Kurra Suresh ,ksuresh@hyderabad.bits-pilani.ac.in
+41,Hyderabad,H0162,Teaching,Jagadeesh Anmala ,jagadeesh@hyderabad.bits-pilani.ac.in
+42,Hyderabad,H0166,Teaching,Jeevan Jaidi,jaidi@hyderabad.bits-pilani.ac.in
+43,Hyderabad,H0184,Teaching,Balaji Gopalan ,gbalaji@hyderabad.bits-pilani.ac.in
+44,Hyderabad,H0190,Teaching,Manab Chakravarty ,manab@hyderabad.bits-pilani.ac.in
+45,Hyderabad,H0202,Teaching,A Sajeli Begum ,sajeli@hyderabad.bits-pilani.ac.in
+46,Hyderabad,H0205,Teaching,Aruna Malapati ,arunam@hyderabad.bits-pilani.ac.in
+47,Hyderabad,H0207,Teaching,Sai Lakshmi Radhika Tantravahi ,radhikatsl@hyderabad.bits-pilani.ac.in
+48,Hyderabad,H0208,Teaching,Lalita Bhanu Murthy Neti ,bhanu@hyderabad.bits-pilani.ac.in
+49,Hyderabad,H0216,Teaching,K Rajitha ,rajitha@hyderabad.bits-pilani.ac.in
+50,Hyderabad,H0218,Teaching,Venkata Vamsi Krishna Venuganti,vamsi@hyderabad.bits-pilani.ac.in
+51,Hyderabad,H0220,Teaching,Balaji Krishnamurthy ,balaji@hyderabad.bits-pilani.ac.in
+52,Hyderabad,H0226,Teaching,Ramesh Adusumalli,ramesh.babu@hyderabad.bits-pilani.ac.in
+53,Hyderabad,H0230,Teaching,Narala Suresh Kumar Reddy,nskreddy@hyderabad.bits-pilani.ac.in
+54,Hyderabad,H0235,Teaching,Satya Narayana Murthy Vemulapati,satyam@hyderabad.bits-pilani.ac.in
+55,Hyderabad,H0245,Teaching,Murari Raja Raja Varma,murari@hyderabad.bits-pilani.ac.in
+56,Hyderabad,H0250,Teaching,Sashideep Gutti ,sashideep@hyderabad.bits-pilani.ac.in
+57,Hyderabad,H0263,Teaching,Srikanta Dinda ,srikantadinda@hyderabad.bits-pilani.ac.in
+58,Hyderabad,H0283,Teaching,Chetan Kumar Vudadha ,chetan@hyderabad.bits-pilani.ac.in
+59,Hyderabad,H0284,Teaching,Swati Alok ,swati@hyderabad.bits-pilani.ac.in
+60,Hyderabad,H0285,Teaching,Chandu Parimi,parimi@hyderabad.bits-pilani.ac.in
+61,Hyderabad,H0287,Teaching,Aruna Lolla,aruna@hyderabad.bits-pilani.ac.in
+62,Hyderabad,H0289,Teaching,Tathagata Ray,rayt@hyderabad.bits-pilani.ac.in
+63,Hyderabad,H0290,Teaching,Subhendu Kumar Sahoo,sahoo@hyderabad.bits-pilani.ac.in
+64,Hyderabad,H0292,Teaching,Nitin Rameshrao Kotkunde ,nitink@hyderabad.bits-pilani.ac.in
+65,Hyderabad,H0296,Teaching,Maya Vinai,mayavinai@hyderabad.bits-pilani.ac.in
+66,Hyderabad,H0305,Teaching,Venkata Sesha Shiv Chaitanya Kamarajugadda,chaitanya@hyderabad.bits-pilani.ac.in
+67,Hyderabad,H0313,Teaching,Ramakrishnan Ganesan,ram.ganesan@hyderabad.bits-pilani.ac.in
+68,Hyderabad,H0317,Teaching,Sridev Mohapatra,sridev.mohapatra@hyderabad.bits-pilani.ac.in
+69,Hyderabad,H0318,Teaching,Amit Nag,amitnag@hyderabad.bits-pilani.ac.in
+70,Hyderabad,H0319,Teaching,Alivelu Manga Parimi,alivelu@hyderabad.bits-pilani.ac.in
+71,Hyderabad,H0322,Teaching,Naga Mohan Kommu,mohankn@hyderabad.bits-pilani.ac.in
+72,Hyderabad,H0324,Teaching,Asrarul Haque,ahaque@hyderabad.bits-pilani.ac.in
+73,Hyderabad,H0327,Teaching,Sounak Roy,sounak.roy@hyderabad.bits-pilani.ac.in
+74,Hyderabad,H0329,Teaching,Prasant Kumar Pattnaik,pkpattnaik@hyderabad.bits-pilani.ac.in
+75,Hyderabad,H0330,Teaching,Karthik Venkateshan,kvenk@hyderabad.bits-pilani.ac.in
+76,Hyderabad,H0333,Teaching,Rahul Nigam,rahul.nigam@hyderabad.bits-pilani.ac.in
+77,Hyderabad,H0344,Teaching,Sandip Shridharrao Deshmukh,ssd@hyderabad.bits-pilani.ac.in
+78,Hyderabad,H0354,Teaching,Manish Kumar,manishkumar@hyderabad.bits-pilani.ac.in
+79,Hyderabad,H0355,Teaching,Durgesh Chandra Pathak,pathakdc@hyderabad.bits-pilani.ac.in
+80,Hyderabad,H0356,Teaching,Sarmistha Banik,sarmistha.banik@hyderabad.bits-pilani.ac.in
+81,Hyderabad,H0357,Teaching,Debasri Bandyopadhyay,banerjee.debi@hyderabad.bits-pilani.ac.in
+82,Hyderabad,H0360,Teaching,Sudatta Banerjee,sudatta@hyderabad.bits-pilani.ac.in
+83,Hyderabad,H0375,Teaching,Phaneendra Kiran Chaganti,cpkiran@hyderabad.bits-pilani.ac.in
+84,Hyderabad,H0377,Teaching,Swati Biswas,swati.biswas@hyderabad.bits-pilani.ac.in
+85,Hyderabad,H0378,Teaching,Jaganmohan Jonnalagadda,jjaganmohan@hyderabad.bits-pilani.ac.in
+86,Hyderabad,H0380,Teaching,Durba Roy,durbaroy@hyderabad.bits-pilani.ac.in
+87,Hyderabad,H0384,Teaching,Sumit Kumar Vishwakarma,sumitkumar@hyderabad.bits-pilani.ac.in
+88,Hyderabad,H0388,Teaching,Vikranth Kumar Surasani,surasani@hyderabad.bits-pilani.ac.in
+89,Hyderabad,H0397,Teaching,Balaram Ghosh,balaram@hyderabad.bits-pilani.ac.in
+90,Hyderabad,H0406,Teaching,Onkar P Kulkarni,onkar@hyderabad.bits-pilani.ac.in
+91,Hyderabad,H0410,Teaching,Naraparaju Kishore Kumar,naraparaju@hyderabad.bits-pilani.ac.in
+92,Hyderabad,H0411,Teaching,Amrita Priyadarshini,amrita@hyderabad.bits-pilani.ac.in
+93,Hyderabad,H0416,Teaching,Arti Dhar,artidhar@hyderabad.bits-pilani.ac.in
+94,Hyderabad,H0417,Teaching,Runa Kumari,runakumari@hyderabad.bits-pilani.ac.in
+95,Hyderabad,H0423,Teaching,Santosh Kumar Mahapatra,santosh@hyderabad.bits-pilani.ac.in
+96,Hyderabad,H0424,Teaching,Venkateswaran Rajagopalan,venkateswaran@hyderabad.bits-pilani.ac.in
+97,Hyderabad,H0429,Teaching,Archana Srivastava,archana@hyderabad.bits-pilani.ac.in
+98,Hyderabad,H0431,Teaching,Sabareesh Geetha Rajasekharan,sabareesh@hyderabad.bits-pilani.ac.in
+99,OC-WILP,H0437,Teaching,G Sundar,sundar@hyderabad.bits-pilani.ac.in
+100,Hyderabad,H0461,Teaching,R Parameshwaran,parameshwaranr@hyderabad.bits-pilani.ac.in
+101,Hyderabad,H0469,Teaching,Sumit Kumar Chatterjee,sumit2702@hyderabad.bits-pilani.ac.in
+102,Hyderabad,H0470,Teaching,Satish Kumar Dubey,satishdubey@hyderabad.bits-pilani.ac.in
+103,Hyderabad,H0471,Teaching,Mohan S C,mohansc@hyderabad.bits-pilani.ac.in
+104,Hyderabad,H0473,Teaching,Sharan Gopal,sharan@hyderabad.bits-pilani.ac.in
+105,Hyderabad,H0475,Teaching,Soumya J,soumyaj@hyderabad.bits-pilani.ac.in
+106,Hyderabad,H0476,Teaching,Anasua Guharay,guharay@hyderabad.bits-pilani.ac.in
+107,Hyderabad,H0477,Teaching,Arkamitra Kar,arkamitra.kar@hyderabad.bits-pilani.ac.in
+108,Hyderabad,H0481,Teaching,Sridhar R,sridhar.raju@hyderabad.bits-pilani.ac.in
+109,Hyderabad,H0483,Teaching,Arshad Javed,arshad@hyderabad.bits-pilani.ac.in
+110,Hyderabad,H0486,Teaching,Supradeepan K,supradeepan@hyderabad.bits-pilani.ac.in
+111,Hyderabad,H0488,Teaching,Sanket Goel,sgoel@hyderabad.bits-pilani.ac.in
+112,Hyderabad,H0490,Teaching,Sujith R,sujith@hyderabad.bits-pilani.ac.in
+113,Hyderabad,H0498,Teaching,Ram Chandra Murthy Kalluri,rcmurthy@hyderabad.bits-pilani.ac.in
+114,Hyderabad,H0499,Teaching,N Anil,anil@hyderabad.bits-pilani.ac.in
+115,Hyderabad,H0500,Teaching,Biswanath Dash,biswanath@hyderabad.bits-pilani.ac.in
+116,Hyderabad,H0502,Teaching,Santanu Prasad Datta,spdatta@hyderabad.bits-pilani.ac.in
+117,Hyderabad,H0503,Teaching,Surya Shankar Dan,ssdan@hyderabad.bits-pilani.ac.in
+118,Hyderabad,H0516,Teaching,Thota Nagaraju,nagaraju@hyderabad.bits-pilani.ac.in
+119,Hyderabad,H0528,Teaching,Rishi Kumar,rishikumar@hyderabad.bits-pilani.ac.in
+120,Hyderabad,H0529,Teaching,Barsha Mitra,barsha.mitra@hyderabad.bits-pilani.ac.in
+121,Hyderabad,H0537,Teaching,Pavan Kumar Penumakala,pavankp@hyderabad.bits-pilani.ac.in
+122,Hyderabad,H0538,Teaching,Dushyant Kumar,dushyant@hyderabad.bits-pilani.ac.in
+123,Hyderabad,H0549,Teaching,Mini Thomas P,mini@hyderabad.bits-pilani.ac.in
+124,Hyderabad,H0550,Teaching,Subhrakanta Panda,spanda@hyderabad.bits-pilani.ac.in
+125,Hyderabad,H0557,Teaching,Sunny Kumar Singh,sunny.singh@hyderabad.bits-pilani.ac.in
+126,Hyderabad,H0558,Teaching,Bheemeshwar Reddy A,bheem@hyderabad.bits-pilani.ac.in
+127,Hyderabad,H0561,Teaching,Suchismita Satpathy,suchi@hyderabad.bits-pilani.ac.in
+128,Hyderabad,H0564,Teaching,Vivek Sharma,viveksharma@hyderabad.bits-pilani.ac.in
+129,Hyderabad,H0565,Teaching,Jamma Trinath,trinath@hyderabad.bits-pilani.ac.in
+130,Hyderabad,H0566,Teaching,Lavanya Suresh,lavanya@hyderabad.bits-pilani.ac.in
+131,Hyderabad,H0568,Teaching,Pranesh Bhargava,pranesh@hyderabad.bits-pilani.ac.in
+132,Hyderabad,H0573,Teaching,Mithun Mondal,mithun@hyderabad.bits-pilani.ac.in
+133,Hyderabad,H0576,Teaching,Gireesha Thipperudrappa Mohannath,gireesha@hyderabad.bits-pilani.ac.in
+134,Hyderabad,H0579,Teaching,Subhash Narayan Karbelkar,snkarbelkar@hyderabad.bits-pilani.ac.in
+135,Hyderabad,H0580,Teaching,Bahurudeen A,bahur@hyderabad.bits-pilani.ac.in
+136,Hyderabad,H0581,Teaching,Ruchi Jain Dey,ruchij80@hyderabad.bits-pilani.ac.in
+137,Hyderabad,H0583,Teaching,Piyush Khandelia,piyush.khandelia@hyderabad.bits-pilani.ac.in
+138,Hyderabad,H0593,Teaching,Pragya Komal,pragya@hyderabad.bits-pilani.ac.in
+139,Hyderabad,H0595,Teaching,Sudha Radhika,sradhika@hyderabad.bits-pilani.ac.in
+140,Hyderabad,H0598,Teaching,Prasant Kumar Samantray,prasant.samantray@hyderabad.bits-pilani.ac.in
+141,Hyderabad,H0602,Teaching,Tanmay Chatterjee,tanmay@hyderabad.bits-pilani.ac.in
+142,Hyderabad,H0604,Teaching,Jhuma Sen Gupta,jhuma@hyderabad.bits-pilani.ac.in
+143,Hyderabad,H0605,Teaching,Harish Vijay Dixit,hvdixit@hyderabad.bits-pilani.ac.in
+144,Hyderabad,H0606,Teaching,Amarthaluri Satyapaul Singh,satyapaul@hyderabad.bits-pilani.ac.in
+145,Hyderabad,H0608,Teaching,Nirmal Jayabalan,nirmalj@hyderabad.bits-pilani.ac.in
+146,Hyderabad,H0609,Teaching,Swastik Bhattacharya,swastik@hyderabad.bits-pilani.ac.in
+147,Hyderabad,H0618,Teaching,Akash Chaurasiya,akashc@hyderabad.bits-pilani.ac.in
+148,Hyderabad,H0620,Teaching,Jayesh A K,jayesh@hyderabad.bits-pilani.ac.in
+149,Hyderabad,H0622,Teaching,J Jabez Christopher,jabezc@hyderabad.bits-pilani.ac.in
+150,Hyderabad,H0623,Teaching,B Nandini,nandini@hyderabad.bits-pilani.ac.in
+151,Hyderabad,H0624,Teaching,Sourav Nandi,sourav@hyderabad.bits-pilani.ac.in
+152,Hyderabad,H0631,Teaching,Santanu Koley,santanu@hyderabad.bits-pilani.ac.in
+153,Hyderabad,H0632,Teaching,Rajesh Kumar Tripathy,tripathyrk@hyderabad.bits-pilani.ac.in
+154,Hyderabad,H0633,Teaching,R N Ponnalagu,ponnalagu@hyderabad.bits-pilani.ac.in
+155,Hyderabad,H0636,Teaching,Aranya Bhuti Bhattacharjee,aranyabhuti@hyderabad.bits-pilani.ac.in
+156,Hyderabad,H0638,Teaching,Sayan Kanungo,sayan.kanungo@hyderabad.bits-pilani.ac.in
+157,Hyderabad,H0640,Teaching,Narasimha Bolloju,narsi.bolloju@hyderabad.bits-pilani.ac.in
+158,Hyderabad,H0641,Teaching,Deepika ,deepika@hyderabad.bits-pilani.ac.in
+159,Hyderabad,H0650,Teaching,Paresh Saxena,psaxena@hyderabad.bits-pilani.ac.in
+160,Hyderabad,H0657,Teaching,Ravi Shanker Vidyarthy,ravi.vidyarthyfme@hyderabad.bits-pilani.ac.in
+161,Hyderabad,H0658,Teaching,Pardha Saradhi Gurugubelli Venkata,pardhasg@hyderabad.bits-pilani.ac.in
+162,Hyderabad,H0659,Teaching,Prasanta Kumar Sahu,prasanta.sahu@hyderabad.bits-pilani.ac.in
+163,Hyderabad,H0660,Teaching,Rajasekaran Raghunathan,raghu@hyderabad.bits-pilani.ac.in
+164,Hyderabad,H0661,Teaching,Parikshit Parshuram Sahatiya,parikshit@hyderabad.bits-pilani.ac.in
+165,Hyderabad,H0662,Teaching,Shilpaa Anand,shilpaa.anand@hyderabad.bits-pilani.ac.in
+166,Hyderabad,H0666,Teaching,Subit Kumar Saha,sksaha@hyderabad.bits-pilani.ac.in
+167,Hyderabad,H0669,Teaching,Rajib Ranjan Maiti,rajibrm@hyderabad.bits-pilani.ac.in
+168,Hyderabad,H0670,Teaching,Prashant K Wali,wali@hyderabad.bits-pilani.ac.in
+169,Hyderabad,H0672,Teaching,Himanshu Aggarwal,himanshu.aggarwal@hyderabad.bits-pilani.ac.in
+170,Hyderabad,H0674,Teaching,Debopam Chakraborty,debopam@hyderabad.bits-pilani.ac.in
+171,Hyderabad,H0676,Teaching,Piyush Chandra Verma,piyushchandraverma@hyderabad.bits-pilani.ac.in
+172,Hyderabad,H0678,Teaching,Gujji Murali Mohan Reddy,gmmreddy@hyderabad.bits-pilani.ac.in
+173,Hyderabad,H0680,Teaching,Nirman Ganguly,nirmanganguly@hyderabad.bits-pilani.ac.in
+174,Hyderabad,H0682,Teaching,Nivedita Sinha,nivedita.sinha@hyderabad.bits-pilani.ac.in
+175,Hyderabad,H0687,Teaching,Shreya Biswas,shreya@hyderabad.bits-pilani.ac.in
+176,Hyderabad,H0688,Teaching,Pratyusha Chattopadhyay,pratyusha@hyderabad.bits-pilani.ac.in
+177,Hyderabad,H0698,Teaching,Brajesh Kumar Panigrahi,brajesh@hyderabad.bits-pilani.ac.in
+178,Hyderabad,H0699,Teaching,Manik Gupta,manik@hyderabad.bits-pilani.ac.in
+179,Hyderabad,H0700,Teaching,Dipanjan Chakraborty,dipanjan@hyderabad.bits-pilani.ac.in
+180,Hyderabad,H0702,Teaching,Ankur Bhattacharjee,a.bhattacharjee@hyderabad.bits-pilani.ac.in
+181,Hyderabad,H0709,Teaching,Sabyasachi Dey,sabya@hyderabad.bits-pilani.ac.in
+182,Hyderabad,H0710,Teaching,Amol Vuppuluri,amol@hyderabad.bits-pilani.ac.in
+183,Hyderabad,H0711,Teaching,Kundan Kumar Singh,ksingh@hyderabad.bits-pilani.ac.in
+184,Hyderabad,H0712,Teaching,K Bhargav Kumar,bhargav@hyderabad.bits-pilani.ac.in
+185,Hyderabad,H0718,Teaching,STP Srinivas,stps@hyderabad.bits-pilani.ac.in
+186,Hyderabad,H0719,Teaching,Venkatakrishnan Ramaswamy,venkat@hyderabad.bits-pilani.ac.in
+187,Hyderabad,H0731,Teaching,Amit Kumar Panda,amit@hyderabad.bits-pilani.ac.in
+188,Hyderabad,H0736,Teaching,Subrahmanya Bhima Sankar Davuluri,sankar@hyderabad.bits-pilani.ac.in
+189,Hyderabad,H0748,Teaching,Pratyush Chakraborty,pchakraborty@hyderabad.bits-pilani.ac.in
+190,Hyderabad,H0749,Teaching,Nijjwal Karak,nijjwal@hyderabad.bits-pilani.ac.in
+191,Hyderabad,H0750,Teaching,Apurba Das,apurba@hyderabad.bits-pilani.ac.in
+192,Hyderabad,H0751,Teaching,Shuvadeep Maity,shuvadeep@hyderabad.bits-pilani.ac.in
+193,Hyderabad,H0752,Teaching,Kirtimaan Syal,ksyal@hyderabad.bits-pilani.ac.in
+194,Hyderabad,H0754,Teaching,Prabakaran Saravanan,psaravanan@hyderabad.bits-pilani.ac.in
+195,Hyderabad,H0755,Teaching,Rohit Gupta,rohitgupta@hyderabad.bits-pilani.ac.in
+196,Hyderabad,H0759,Teaching,Nikumani Choudhury,nikumani@hyderabad.bits-pilani.ac.in
+197,Hyderabad,H0760,Teaching,Arnab Dutta,arnabdutta@hyderabad.bits-pilani.ac.in
+198,Hyderabad,H0763,Teaching,Mrinal Ketan Jagirdar,mkjagirdar@hyderabad.bits-pilani.ac.in
+199,Hyderabad,H0764,Teaching,Subhradeep Pal,subhradeep@hyderabad.bits-pilani.ac.in
+200,Hyderabad,H0766,Teaching,Farida Parvez Barbhuiya,faridaparvezb@hyderabad.bits-pilani.ac.in
+201,Hyderabad,H0767,Teaching,Sajith P,sajith@hyderabad.bits-pilani.ac.in
+202,Hyderabad,H0769,Teaching,Afkham Mir,mirafkham@hyderabad.bits-pilani.ac.in
+203,Hyderabad,H0770,Teaching,Raghunath Reddy Madireddy,raghunath@hyderabad.bits-pilani.ac.in
+204,Hyderabad,H0771,Teaching,Debirupa Mitra,debirupa@hyderabad.bits-pilani.ac.in
+205,Hyderabad,H0772,Teaching,Nishith Gupta,gupta.nishith@hyderabad.bits-pilani.ac.in
+206,Hyderabad,H0773,Teaching,Spandan Bhattacharya,spandan@hyderabad.bits-pilani.ac.in
+207,Hyderabad,H0774,Teaching,Iyman Abrar,iyman@hyderabad.bits-pilani.ac.in
+208,Hyderabad,H0775,Teaching,Abhishek Sarkar,abhisheks@hyderabad.bits-pilani.ac.in
+209,Hyderabad,H0776,Teaching,P Raghu,raghupiska@hyderabad.bits-pilani.ac.in
+210,Hyderabad,H0778,Teaching,Chanchal Chakraborty,chanchal@hyderabad.bits-pilani.ac.in
+211,Hyderabad,H0783,Teaching,Sayan Ghosh,sayan@hyderabad.bits-pilani.ac.in
+212,Hyderabad,H0785,Teaching,Nilanjan Dey,nilanjan@hyderabad.bits-pilani.ac.in
+213,Hyderabad,H0787,Teaching,K Srinivasa Prasad,ksprasad@hyderabad.bits-pilani.ac.in
+214,Hyderabad,H0790,Teaching,Ramendra Kishor Pal,ramendra.pal@hyderabad.bits-pilani.ac.in
+215,Hyderabad,H0794,Teaching,Arijit Mukherjee,arijit.mukherjee@hyderabad.bits-pilani.ac.in
+216,Hyderabad,H0808,Teaching,S Gurunarayanan,sguru@hyderabad.bits-pilani.ac.in
+217,Hyderabad,H0812,Teaching,Vijay Kumar Tadakamalla,tvk@hyderabad.bits-pilani.ac.in
+218,Hyderabad,H0817,Teaching,Vivekananda Mukherjee,v.mukherjee@hyderabad.bits-pilani.ac.in
+219,Hyderabad,H0820,Teaching,Abhijeet Rajendra Joshi,abhijeet.j@hyderabad.bits-pilani.ac.in
+220,Hyderabad,H0822,Teaching,Joyjit Mukherjee,j.mukherjee@hyderabad.bits-pilani.ac.in
+221,Hyderabad,H0823,Teaching,Sameera Muhamed Salam,sameera.ms@hyderabad.bits-pilani.ac.in
+222,Hyderabad,H0825,Teaching,Mahipal Reddy Benjaram,bmreddy@hyderabad.bits-pilani.ac.in
+223,Hyderabad,H0827,Teaching,Aritra Mukherjee,a.mukherjee@hyderabad.bits-pilani.ac.in
+224,Hyderabad,H0828,Teaching,Sayan Das,sayan.das@hyderabad.bits-pilani.ac.in
+225,Hyderabad,H0831,Teaching,Abhijit Das,abhijit.das@hyderabad.bits-pilani.ac.in
+226,Hyderabad,H0833,Teaching,Supratim Ghosh,supratim.ghosh@hyderabad.bits-pilani.ac.in
+227,Hyderabad,H0836,Teaching,Satya Narayan Guin,satyanarayan.g@hyderabad.bits-pilani.ac.in
+228,Hyderabad,H0846,Teaching,Aneesh Srivallabh Chivukula,aneesh.chivukula@hyderabad.bits-pilani.ac.in
+229,Hyderabad,H0852,Teaching,Jayaprakash K S,jayaprakash.ks@hyderabad.bits-pilani.ac.in
+230,Hyderabad,H0853,Teaching,Sushil Bhunia,sushil.bhunia@hyderabad.bits-pilani.ac.in
+231,Hyderabad,H0854,Teaching,Tony Sebastian,tony.sebastian@hyderabad.bits-pilani.ac.in
+232,Hyderabad,H0859,Teaching,Dave Jay Kamlesh,jay.dave@hyderabad.bits-pilani.ac.in
+233,Hyderabad,H0866,Teaching,Amartya Sanyal,amartya.sanyal@hyderabad.bits-pilani.ac.in
+234,Hyderabad,H0867,Teaching,Prajna Devi Upadhyay,prajna.u@hyderabad.bits-pilani.ac.in
+235,Hyderabad,H0882,Teaching,Harsh Mittal,harshm@hyderabad.bits-pilani.ac.in
+236,Hyderabad,H0884,Teaching,Subhadeep Roy,subhadeep.r@hyderabad.bits-pilani.ac.in
+237,Hyderabad,H0890,Teaching,Ishant Sharma,ishant.sharma@hyderabad.bits-pilani.ac.in
+238,Hyderabad,H0892,Teaching,Akshay Gundla,akshay.gundla@hyderabad.bits-pilani.ac.in
+239,Hyderabad,H0897,Teaching,Rickmoy Samanta,rickmoy.samanta@hyderabad.bits-pilani.ac.in
+240,Hyderabad,H0899,Teaching,Sesha Sai Raghuram ammavajjala,raghuram.ammavajjala@hyderabad.bits-pilani.ac.in
+241,Hyderabad,H0901,Teaching,Arnab Guha,guha.arnab@hyderabad.bits-pilani.ac.in
+242,Hyderabad,H0905,Teaching,Suvadip Das,suvadip.das@hyderabad.bits-pilani.ac.in
+243,Hyderabad,H0911,Teaching,Tanay Nag,tanay.nag@hyderabad.bits-pilani.ac.in
+244,Hyderabad,H0912,Teaching,Kavi Devraj,kavi.devraj@hyderabad.bits-pilani.ac.in
+245,Hyderabad,H0913,Teaching,Sk Jahanur Hoque,jahanur.hoque@hyderabad.bits-pilani.ac.in
+246,Hyderabad,H0917,Teaching,Anakhi Hazarika,anakhi.hazarika@hyderabad.bits-pilani.ac.in
+247,Hyderabad,H0919,Teaching,Sravani Bharandev,sravani.bharandev@hyderabad.bits-pilani.ac.in
+248,Hyderabad,H0937,Teaching,Ravikiran Yeleswarapu,ravikiran.y@hyderabad.bits-pilani.ac.in
+249,Hyderabad,H0942,Teaching,Pralok Kumar Samanta,pralokkumar.samanta@hyderabad.bits-pilani.ac.in
+250,Hyderabad,H0944,Teaching,Mohan Rao Chintalagiri,chmohanrao@hyderabad.bits-pilani.ac.in
+251,Hyderabad,H0945,Teaching,Balasubramanian Malayappan,balasubramanian@hyderabad.bits-pilani.ac.in
+252,Hyderabad,H0946,Teaching,Vijay Kumar Nimbarte,vijaykumar.dn@hyderabad.bits-pilani.ac.in
+253,Hyderabad,H0947,Teaching,Venkata Subrahmanyam Appakayala Chenchu,subrahmanyam.acv@hyderabad.bits-pilani.ac.in
+254,Hyderabad,H0948,Teaching,Abhradeep Majumder,abhradeep.majumder@hyderabad.bits-pilani.ac.in
+255,Hyderabad,H0949,Teaching,Pranay Agarwal,pranay.agarwal@hyderabad.bits-pilani.ac.in
+256,Hyderabad,H0950,Teaching,Pritesh Kumar Yadav,pritesh.yadav@hyderabad.bits-pilani.ac.in
+257,Hyderabad,H0956,Teaching,Rama  Manohara Babu M,rama.mbm@hyderabad.bits-pilani.ac.in
+258,Hyderabad,H0962,Teaching,Akanksha Rathore,rathore.akanksha@hyderabad.bits-pilani.ac.in
+259,Hyderabad,H0963,Teaching,Abhishek Saha,abhishek.saha@hyderabad.bits-pilani.ac.in
+260,Hyderabad,H0966,Teaching,Sk Masum Nawaz,nawaz.masum@hyderabad.bits-pilani.ac.in
+261,Hyderabad,H0969,Teaching,Sourav Chowdhury,sourav.chowdhury@hyderabad.bits-pilani.ac.in
+262,Hyderabad,H0973,Teaching,Debanjan Polley,debanjan.polley@hyderabad.bits-pilani.ac.in
+263,Hyderabad,H0976,Teaching,Soumyananda Chakraborti,soumyananda.chakraborti@hyderabad.bits-pilani.ac.in
+264,Hyderabad,H0979,Teaching,Arindam Kushagra,arindam.kushagra@hyderabad.bits-pilani.ac.in
+265,Hyderabad,H0980,Teaching,Nitish Kumar Gupta,nitishkumar.gupta@hyderabad.bits-pilani.ac.in
+266,Hyderabad,H0981,Teaching,Bandhan Bandhu Majumdar,majumdar@hyderabad.bits-pilani.ac.in
+267,Hyderabad,H0982,Teaching,Neha Tak,neha.tak@hyderabad.bits-pilani.ac.in
+268,Hyderabad,H0983,Teaching,Naveen Kumar Shrivastava,naveenks@hyderabad.bits-pilani.ac.in
+269,Hyderabad,H0984,Teaching,Satyanarayana Subrahmanyam,satyanarayana.s@hyderabad.bits-pilani.ac.in
+270,Hyderabad,H0985,Teaching,SK Aziz Ali,skaziz.ali@hyderabad.bits-pilani.ac.in
+271,Hyderabad,H0986,Teaching,Suryoday Prodhan,suryoday.prodhan@hyderabad.bits-pilani.ac.in
+272,Hyderabad,H0987,Teaching,Madhavi Jha,madhavi.jha@hyderabad.bits-pilani.ac.in
+273,Hyderabad,H0990,Teaching,Bibhas Roy,bibhas.roy@hyderabad.bits-pilani.ac.in
+274,Hyderabad,H0995,Teaching,Kunaljeet Roy,kunaljeet.roy@hyderabad.bits-pilani.ac.in
+275,Hyderabad,H0998,Teaching,Kanika ,kanika.monga@hyderabad.bits-pilani.ac.in
+276,Hyderabad,H0999,Teaching,Madhushree Chakrabarty,madhushree.c@hyderabad.bits-pilani.ac.in
+277,Hyderabad,H1001,Teaching,Ketaki Deepak Belsare,ketaki.belsare@hyderabad.bits-pilani.ac.in
+278,Hyderabad,H1004,Teaching,Debajit Bora,debajit.bora@hyderabad.bits-pilani.ac.in
+279,Hyderabad,H1005,Teaching,Manabendra Kuiri,manabendra.kuiri@hyderabad.bits-pilani.ac.in
+280,Hyderabad,H1006,Teaching,Ufaque Paiker,ufaque.paiker@hyderabad.bits-pilani.ac.in
+281,Hyderabad,H1008,Teaching,Muhammed Sajid N,sajid.md@hyderabad.bits-pilani.ac.in
+282,Hyderabad,H1012,Teaching,Srinivas Appari,srinivas.appari@hyderabad.bits-pilani.ac.in
+283,Hyderabad,H1013,Teaching,Meera Kumari,meera.kumari@hyderabad.bits-pilani.ac.in
+284,Hyderabad,H1015,Teaching,Satheesh Reddy Gundra,satheesh.gundra@hyderabad.bits-pilani.ac.in
+285,Hyderabad,H1016,Teaching,Sudipta Maiti,sudipta.maiti@hyderabad.bits-pilani.ac.in
+286,Hyderabad,H1019,Teaching,Mohammad Adil Dar,dar.adil@hyderabad.bits-pilani.ac.in
+287,Hyderabad,H1021,Teaching,Swati Rani Hait,swati.hait@hyderabad.bits-pilani.ac.in
+288,Hyderabad,H1023,Teaching,Shrikant Mulay,shrikant.mulay@hyderabad.bits-pilani.ac.in
+289,Hyderabad,H1024,Teaching,Sutapa Roy,sutapa.roy@hyderabad.bits-pilani.ac.in
+290,Hyderabad,H1028,Teaching,Lalit Kumar,lalitkumar@hyderabad.bits-pilani.ac.in
+291,Hyderabad,H1029,Teaching,Bidisha Banerjee,bidisha.b@hyderabad.bits-pilani.ac.in
+292,Hyderabad,H1030,Teaching,Sarbani Banerjee Belur,sarbani.belur@hyderabad.bits-pilani.ac.in
+293,Hyderabad,H1033,Teaching,Subrahmanyam R,r.subrahamanayam@hyderabad.bits-pilani.ac.in
+294,Hyderabad,H1037,Teaching,Utkarsh Kumar,utkarsh.k@hyderabad.bits-pilani.ac.in
+295,Hyderabad,H1042,Teaching,Krishanu Ray,krishanur@hyderabad.bits-pilani.ac.in
+296,Hyderabad,H1053,Teaching,Hrishikesh Terdalkar,hrishikesh.rt@hyderabad.bits-pilani.ac.in
+297,Hyderabad,H1055,Teaching,Anjana Krishna S,anjanakrishna.s@hyderabad.bits-pilani.ac.in
+298,Hyderabad,H1064,Teaching,Prajakta Bedekar,prajakta.b@hyderabad.bits-pilani.ac.in
+299,Hyderabad,H1068,Teaching,Nancy Varshney,nancy.varshney@hyderabad.bits-pilani.ac.in
+300,Hyderabad,H1073,Teaching,Bhaswati Chakraborty,bhaswati.c@hyderabad.bits-pilani.ac.in
+301,Hyderabad,H1078,Teaching,Aswin Vinod M,aswinvinod.m@hyderabad.bits-pilani.ac.in
+302,Hyderabad,H1079,Teaching,Pankaj Kumar,pankaj.kumar@hyderabad.bits-pilani.ac.in
+303,Hyderabad,H1083,Teaching,Amrita Chakraborty,amrita.chakraborty@hyderabad.bits-pilani.ac.in
+304,Hyderabad,H1093,Teaching,Arup Ratan Paul,arupratan.paul@hyderabad.bits-pilani.ac.in
+305,Hyderabad,H1096,Teaching,Ashok Kumar Vaikuntam,ashokkumar.v@hyderabad.bits-pilani.ac.in
+306,Hyderabad,H1097,Teaching,Subhajit Karmakar,subhajit.karmakar@hyderabad.bits-pilani.ac.in
+307,Hyderabad,H1101,Teaching,Tulasi Mohan Molli,tulasimohan.m@hyderabad.bits-pilani.ac.in
+308,Hyderabad,H1102,Teaching,Jayati Deshmukh,jayati.deshmukh@hyderabad.bits-pilani.ac.in
